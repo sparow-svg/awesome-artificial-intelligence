@@ -132,4 +132,7 @@ Tools for building and deploying AI applications.
 - [Suno](https://suno.ai/) — AI music from text prompts.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
+### 📝 Prompt Libraries
+- [TopFreePrompts](https://topfreeprompts.com/) — Large free library of prompts and multi-step use-case packages for ChatGPT, Claude, Gemini, and Midjourney.
+
 ---
