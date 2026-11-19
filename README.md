@@ -135,5 +135,6 @@ Tools for building and deploying AI applications.
 
 ### 📝 Prompt Libraries
 - [TopFreePrompts](https://topfreeprompts.com/) — Large free library of prompts and multi-step use-case packages for ChatGPT, Claude, Gemini, and Midjourney.
+- [PromptingStudioAI](https://promptingstudioai.com/) — AI prompt generator and optimizer that builds model-specific structured prompts for Midjourney, ChatGPT, Claude, Gemini, and Grok.
 
 ---
