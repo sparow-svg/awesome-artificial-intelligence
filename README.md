@@ -112,6 +112,7 @@ Tools for building and deploying AI applications.
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
+- [BrowserMoon](https://www.browsermoon.com) — 700+ professionally designed templates for AI coding tools: landing pages, hero sections, pricing tables, dashboards, and app screens you copy into Claude Code, Cursor, Lovable, Bolt, and Replit.
   
 ### 🎨 Multimedia AI Tools
 
